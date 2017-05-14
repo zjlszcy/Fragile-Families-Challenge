@@ -16,7 +16,7 @@ Term: Spring 2017
 **Project summary**: In this project, we built various predictive models on the Fragile Families Challenge data, to predict the following: GPA, Grit, Material hardship, Eviction, Layoff, and Job training.
 
 
-**Data**: Fragile Families Challenge. It is a scientific mass collaboration combining predictive modeling,causal inference and qualitative interviews. Our project goal is to improve the lives of disadvantaged children in the US.
+**Data**: Fragile Families Challenge. It is a scientific mass collaboration combining predictive modeling, causal inference and qualitative interviews. Our project goal is to improve the lives of disadvantaged children in the US.
 
 
 **Data Cleaning**:
