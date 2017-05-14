@@ -29,7 +29,7 @@ Term: Spring 2017
 + Binary outcomes: Housing eviction, Layoff of a caregiver, Job training for a caregiver 
 + Missin Data: -9 Not in wave, -6 Valid skip, -2 Dont know, -1 Refuse, NA also used occasionally 
 + Categorical feature: Make NA a special level
-+ Continuous feature: Create a dummy variable indicating the missing situation of the feature,Impute the missing value with median (library: Hmisc)
++ Continuous feature: Create a dummy variable indicating the missing situation of the feature, impute the missing value with median (library: Hmisc)
 
 
 
