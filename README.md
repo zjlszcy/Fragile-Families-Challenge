@@ -33,7 +33,7 @@ Term: Spring 2017
 
 
 
-**Feature Selection**: Boruta package
+**Feature Selection**: Boruta package <br>
 ![alt tag](https://github.com/TZstatsADS/Spr2017-proj5-grp3/blob/master/figs/feature%20selection.png)
 
 
