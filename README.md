@@ -1,5 +1,7 @@
 # ADS Project 5: 
 
+Related article was published [here](https://www.pnas.org/content/117/15/8398).
+
 Term: Spring 2017
 ### [Presentation](https://github.com/TZstatsADS/Spr2017-proj5-grp3/blob/master/doc/presentation.pdf)
 
